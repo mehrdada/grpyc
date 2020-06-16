@@ -11,7 +11,7 @@ GRPCIO_TESTS_UNIT = [
     "credentials_test.py",
     "empty_message_test.py",
     "error_message_encoding_test.py",
-    "interceptor_test.py",
+    #"interceptor_test.py",
     "invalid_metadata_test.py",
     "metadata_flags_test.py",
     "metadata_code_details_test.py",
