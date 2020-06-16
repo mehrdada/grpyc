@@ -1,4 +1,4 @@
-workspace(name = "com_github_dropbox_altgrpc")
+workspace(name = "com_github_mehrdada_grpyc")
 
 load("//bazel:workspace.bzl", "altgrpc_deps")
 
